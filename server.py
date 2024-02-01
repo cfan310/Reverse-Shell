@@ -1,2 +1,2 @@
-print('server test')
+print('client')
 
